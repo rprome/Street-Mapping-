@@ -71,4 +71,3 @@ Replace `src/ur.txt` with the desired map dataset file (e.g., `src/monroe.txt` o
 ## Resources Used
 - [Haversine Formula](https://en.wikipedia.org/wiki/Haversine_formula)
 - [Dijkstra’s Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
-- ChatGPT (syntax assistance)
